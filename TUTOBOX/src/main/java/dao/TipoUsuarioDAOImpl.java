@@ -36,4 +36,19 @@ public class TipoUsuarioDAOImpl implements TipoUsuarioDAO {
         }
         return tiposUsuario;
     }
+
+    @Override
+    public void insertar(TipoUsuario tipoUsuario) throws SQLException {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    @Override
+    public void update(TipoUsuario tipoUsuario) throws SQLException {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
+    @Override
+    public void delete(TipoUsuario tipoUsuario) throws SQLException {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }

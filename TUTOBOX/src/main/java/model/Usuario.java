@@ -9,6 +9,8 @@ public class Usuario {
     private String correo;
     private int idTipo;
 
+    
+    
     public int getIdUsuario() {
         return idUsuario;
     }
