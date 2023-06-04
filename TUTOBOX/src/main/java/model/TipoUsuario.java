@@ -20,4 +20,12 @@ public class TipoUsuario {
     public void setDescripcion(String descripcion) {
         this.descripcion = descripcion;
     }
+
+    public TipoUsuario() {
+    }
+
+    public TipoUsuario(String codigo, String descripcion) {
+        this.codigo = codigo;
+        this.descripcion = descripcion;
+    }
 }
