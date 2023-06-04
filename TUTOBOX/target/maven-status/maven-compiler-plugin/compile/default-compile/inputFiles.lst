@@ -1,10 +1,11 @@
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\service\TipoUsuarioService.java
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\web\IngresoServlet.java
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\dao\TipoUsuarioDAO.java
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\model\TipoUsuario.java
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\model\Usuario.java
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\dao\UsuarioDAOImpl.java
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\util\ConexionUtil.java
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\dao\UsuarioDAO.java
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\service\UsuarioService.java
-D:\DATA-BRAYAN\ULIMA\ING_SOFT2\TUTOBOX\TUTOBOX\src\main\java\dao\TipoUsuarioDAOImpl.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\dao\UsuarioDAO.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\dao\TipoUsuarioDAO.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\util\ConexionUtil.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\dao\UsuarioDAOImpl.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\web\IngresoServlet.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\model\TipoUsuario.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\test\testUsuario.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\service\UsuarioService.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\service\TipoUsuarioService.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\dao\TipoUsuarioDAOImpl.java
+D:\TUTOBOX JAVA\TUTOBOX\TUTOBOX\src\main\java\model\Usuario.java
