@@ -1,0 +1,10 @@
+model\TipoUsuario.class
+service\UsuarioService.class
+util\ConexionUtil.class
+dao\TipoUsuarioDAO.class
+service\TipoUsuarioService.class
+dao\TipoUsuarioDAOImpl.class
+dao\UsuarioDAO.class
+dao\UsuarioDAOImpl.class
+web\IngresoServlet.class
+model\Usuario.class
