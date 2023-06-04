@@ -10,3 +10,4 @@ dao\UsuarioDAO.class
 dao\UsuarioDAOImpl.class
 web\IngresoServlet.class
 test\TipoUsuarioTest.class
+test\testmain.class
