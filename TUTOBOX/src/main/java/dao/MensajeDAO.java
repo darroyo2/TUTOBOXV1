@@ -7,6 +7,7 @@ package dao;
 import java.sql.SQLException;
 import java.util.List;
 import model.Mensaje;
+import model.Usuario;
 
 /**
  *
@@ -17,4 +18,5 @@ public interface MensajeDAO {
     void update(Mensaje mensaje) throws SQLException;
     void delete(Mensaje mensaje) throws SQLException;
     List<Mensaje> listar() throws SQLException;
+    List<Mensaje> listarRecibidos(Usuario usuario) throws SQLException;
 }
